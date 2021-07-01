@@ -80,13 +80,13 @@ Requisições para a API devem seguir os padrões:
 
 # Grupo de Recursos
 
-###Visualizar a documentação
+##Visualizar a documentação
 
 ```
   http://localhost:8080/swagger-ui.html
 ```
 
-
+![Documentacao](https://github.com/alex-dev2015/api_rest_people/blob/main/src/main/java/one/digitalinnovation/personapi/images/Swagger.png)
 
 
    
