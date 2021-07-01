@@ -63,11 +63,6 @@ Startar o servidor
 
 ## 🎈 Uso <a name="usage"></a>
 
-```
-mvn spring-boot:run
-```
-
-
 
 ## Métodos
 Requisições para a API devem seguir os padrões:
@@ -80,6 +75,7 @@ Requisições para a API devem seguir os padrões:
 
 # Modelo Relacional
 
+![banco](https://github.com/alex-dev2015/api_rest_people/blob/main/src/main/java/one/digitalinnovation/personapi/images/modelo_personapi.png)
 
 
 # Grupo de Recursos
